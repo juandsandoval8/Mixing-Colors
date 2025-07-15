@@ -1,0 +1,12 @@
+Elementos  a usar:
+
+- LM35 en forma de sonda para las temperaturas
+- Resietencias calefactoras a 12v
+- Reguladores de voltaje
+- Fuente de buen amperaje para alimentacion general
+- LM295 (opcional)
+- Arduino Mega 2560
+- Sensore de nivel tipo bolla o piston o electrodos, (sensores de ultrasonido(opcional))
+
+* Se puede migrar a un tarjeta un poco mas robusta como una ESP32
+- Hace falta codigo PLC
