@@ -9,4 +9,3 @@ Elementos  a usar:
 - Sensore de nivel tipo bolla o piston o electrodos, (sensores de ultrasonido(opcional))
 
 * Se puede migrar a un tarjeta un poco mas robusta como una ESP32
-- Hace falta codigo PLC
